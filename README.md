@@ -17,9 +17,9 @@ The Land Registry System is a decentralized application (DApp) built using Block
 
 
 ## Tech Stack
-- **Blockchain**: Ethereum (using Solidity for smart contract development)
+- **Blockchain**: Ethereum (using Solidity for smart contract development), Ganache
 - **Smart Contracts**: Written in Solidity
-- **Backend**: Truffle framework (for smart contract management)
+- **Backend**: JavaScript ,Truffle framework (for smart contract management)
 - **Frontend**: HTML, CSS, JavaScript (interacting with the blockchain via Web3.js)
 
 ## Installation
